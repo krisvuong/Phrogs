@@ -1,0 +1,29 @@
+TIER 1:
+Give pet 1/1
+Give pet 2 health
+Give pet 2 attack
+
+TIER 2:
+Swap a pet's health and attack
+Give a pet 1/2
+
+TIER 3:
+Give two random pets 1/1
+Give a pet +4 health and -2 attack
+Give a pet +4 attack and -2 health
+
+TIER 4:
+Give two pets 1/2
+Give a pet 2/2
+
+TIER 5:
+Give three random pets 1/1
+Give three random pets 2 health
+Give three random pets 2 damage
+
+TIER 6:
+Give two random pets 2/2
+Give two random pets 4 damage
+Give two random pets 4 health
+Give a pet 3/3
+Give all pets 1 attack

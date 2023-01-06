@@ -1,0 +1,8 @@
+apple, 1, 1
+peach, 0, 2
+bacon, 2, 0
+milk, 1, 2
+shrimp, 4, -2
+broccoli, -2, 4
+pear, 2, 2
+chicken, 3, 3,
